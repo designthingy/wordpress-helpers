@@ -1,5 +1,4 @@
-# wordpress-helpers
-List of WordPress helper functions.
+# List of WordPress helper functions.
 ---
 | Description | Link |
 |-------------|------|
