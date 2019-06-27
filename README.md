@@ -1,5 +1,5 @@
 # List of WordPress helper functions.
----
+
 | Description | Link |
 |-------------|------|
 | Modify theme excerpt like length and more | [Link](modify-excerpt.php) |
